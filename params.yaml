@@ -1,0 +1,4 @@
+key: value
+another_key:
+  - list_item_1
+  - list_item_2
